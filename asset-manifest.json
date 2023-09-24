@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/weatherin-app/static/css/main.a1ec27c1.css",
+    "main.js": "/weatherin-app/static/js/main.e7ca2947.js",
+    "static/js/787.d9312eb8.chunk.js": "/weatherin-app/static/js/787.d9312eb8.chunk.js",
+    "static/media/weather-background.jpg": "/weatherin-app/static/media/weather-background.d84e38aa9a6a0804b139.jpg",
+    "index.html": "/weatherin-app/index.html",
+    "main.a1ec27c1.css.map": "/weatherin-app/static/css/main.a1ec27c1.css.map",
+    "main.e7ca2947.js.map": "/weatherin-app/static/js/main.e7ca2947.js.map",
+    "787.d9312eb8.chunk.js.map": "/weatherin-app/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1ec27c1.css",
+    "static/js/main.e7ca2947.js"
+  ]
+}
