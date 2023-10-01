@@ -32,7 +32,7 @@ function App() {
             <div>
               <input
                 type="text"
-                placeholder="Enter city/town..."
+                placeholder="Enter city..."
                 onChange={(e) => setSearch(e.target.value)}
               />
               <button onClick={searchPressed}>Search</button>
