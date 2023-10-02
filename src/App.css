@@ -1,7 +1,6 @@
 .App {
   text-align: center;
   background: url("../public/weather-background.jpg") no-repeat;
-  /* border: 10px solid red; */
 }
 
 .App-logo {
@@ -16,7 +15,6 @@
 }
 
 .App-header {
-  /* background-color: #282c34; */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -24,7 +22,6 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-  /* border: 10px solid red; */
 }
 
 .App-link {
